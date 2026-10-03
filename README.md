@@ -9,12 +9,7 @@ sudo apt install python3 -y
 Installed the latest version of Git:
 - Windows:
 Download Here (The "PATH" option must be enabled during installation)
-- Linux:
-sudo apt install git -y
-Clone the repository:
-git clone https://github.com/loxy0devlp/RedTiger-Tools.git
-Enter the project folder:
-cd RedTiger-Tools
+
 Launched the setup:
 - Windows:
 python setup.py
